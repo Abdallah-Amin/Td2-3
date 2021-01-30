@@ -1,0 +1,23 @@
+body {
+	background-image: url(stmartin.jpg);
+}
+
+h1 {
+	background-color: #ffffff;
+	border-color: #8080c0;
+	border-style: ridge;
+	color: #800040;
+	font-family: "Arial Narrow";
+	text-align: center;
+	text-transform: capitalize;
+}
+
+h2 {
+	background-color: transparent;
+	background-image: none;
+}
+
+li {
+	background-color: #0080c0;
+	color: #ffffff;
+}

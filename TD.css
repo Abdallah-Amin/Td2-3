@@ -1,0 +1,50 @@
+h1 {
+	background-color: #ffff80;
+	background-image: url(TestBordure.jpg);
+	border-style: solid;
+	color: #800040;
+	font-family: "Microsoft New Tai Lue";
+	font-size: large;
+	text-align: center;
+}
+
+h2 {
+	background-color: #ffff80;
+	border-style: solid;
+	color: #800040;
+	font-family: "Arial Black";
+	text-align: center;
+	text-decoration: underline;
+}
+
+h3 {
+	background-color: #ffff80;
+	border-style: solid;
+	color: #800040;
+	font-family: "Bernard MT Condensed";
+	font-variant: small-caps;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p {
+	color: #800000;
+	font-family: "Arial Narrow";
+	text-align: center;
+}
+
+li {
+	color: #004000;
+	text-align: center;
+}
+
+body {
+	background-color: #f3b985;
+	image: center;
+}
+
+a {
+	cursor: crosshair;
+	text-align: center;
+	image: center;
+}
